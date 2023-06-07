@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="1a55d79d2f5b2110000c70682799b605" extends="task" label="Parking Requests" max_length="40" name="x_742055_society_parking_requests" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Block Number" max_length="40" name="block_number" type="string"/>
+    </element>
+</database>
